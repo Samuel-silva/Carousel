@@ -1,5 +1,5 @@
 Carousel - Formstone
 
-Carousel with Formstone
+Examples with Carousel Formstone.
 
-https://formstone.it/components/carousel/
+Read more - https://formstone.it/components/carousel/
